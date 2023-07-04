@@ -1,0 +1,37 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background: gray;
+}
+
+.header_div{
+    background:white;
+    color:chocolate;
+}
+
+.header_div p{
+    font-family: monospace;
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight:bolder;
+}
+
+.main_div button{
+    background-color:#00a6ff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    letter-spacing: 3px;
+    width:130px;
+    margin-top:30px;
+}
+
+.copyright_footer{
+    position: fixed;
+    color: rgb(0, 255, 179);
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align:center;
+    text-shadow:5px 5px 5px 5px black;
+}
